@@ -51,3 +51,6 @@ When your 45-minute coding time finishes, stop what you're doing, save your work
 ## Discuss
 
 Your Section Lead or Team Lead will open a Zoom chat to discuss test cases, approaches, and your solutions before wrapping up with an overview of any other possible approach(es).
+
+
+
