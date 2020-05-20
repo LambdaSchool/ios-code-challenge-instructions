@@ -3,7 +3,7 @@ import UIKit
 var str = "Hello, playground"
 
 
-func isPalindrome(word: String) -> Bool {
+func canBePalindrome(word: String) -> Bool {
     let reverseWord = String(word.reversed())
     if(word != "" && word == reverseWord) {
         return true
@@ -12,5 +12,5 @@ func isPalindrome(word: String) -> Bool {
     }
 }
 
-print(isPalindrome(word: "tacocat"))
-print(isPalindrome(word: "daily"))
+print(canBePalindrome(word: "tacocat"))
+print(canBePalindrome(word: "daily"))
